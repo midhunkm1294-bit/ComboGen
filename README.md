@@ -1,5 +1,5 @@
 <a href="https://www.python.org/download/releases/3.0/"><IMG src="https://img.shields.io/pypi/pyversions/3.svg?label=Python&logo=python"></a>
-<a href="https://t.me/VoldemortCommunity"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=Telegram"></a>
+<a href="https://t.me/TechnologicalWorld"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=Telegram"></a>
 
 # ComboGen
 - ~~Combo List Generator v1.0 (Uploaded on 21/04/2019 17:00 IST)~~
@@ -10,7 +10,7 @@
 
 ## For Educational Purposes Only!!
 #### I Will Not be Responsible for Any Kind of Problems That Arise due to Unfair Usage!!
-###### P.S. You Know What I Mean! xD
+###### P.S. You Know What I Mean! lol
 
 ## v3.0 Release Notes
 * ***Added DuckDuckGo Scraping.***
@@ -20,7 +20,7 @@
 
 ## v2.0 Release Notes
 * Switched to ***Python***. (PHP is Old & Obsolete)
-* Changed the Way Files are Loaded. A **VoldemortCommunity** Folder in your **Internal Storage** Will now Contain all Required Files.
+* Changed the Way Files are Loaded. A **TECHNOLOGICALWORLD** Folder in your **Internal Storage** Will now Contain all Required Files.
 * ***IP BLOCKS ARE POTENTIALLY FIXED¹.***
 * ***Much MUCH Faster*** than v1.0.
 * Ditched [Samay Bhavsar's Google Scraping Algorithm.](https://github.com/samaybhavsar/google-scraper).
@@ -37,8 +37,7 @@
 * You can set the ***"Freshness"*** of Combos.
 * Totally Transparent Processing. You Can See whats Happening in Real-Time.
 * ***Cancellable!*** Think you got Enough Combos? press Ctrl+C to Cancel the Program and you will Still have the Combos.
-* Report any Bugs at [@hewhomustn0tbenamed](https://t.me/hewhomustn0tbenamed) (Telegram)
-* Join the Group at [@VoldemortCommunity](https://t.me/VoldemortCommunity) (Telegram)
+* Join the Group at [@TECHNOLOGICALWORLD](https://t.me/TECHNOLOGICALWORLD) (Telegram)
 
 ## Changelog
 
@@ -70,11 +69,11 @@
 ### v1.0 No Updates Yet.
 
 ### Regards,
-### @voldemort1912!🖖🏻
+### @MARIODEVS!🖖🏻
 
 ## HOW TO USE!!
 * Open a Terminal & Run `pkg update && pkg upgrade && pkg install git python -y`
-* Next, Run `git clone https://github.com/VoldemortCommunity/ComboGen`
+* Next, Run `git clone https://github.com/midhunkm1294-bit/ComboGen`
 * Navigate to the Newly Created ComboGen Directory using `cd ComboGen`
 * To Start the Program Use `python combogen`
 * It Will Automatically Install Dependencies & Configure Everything on the First Run. Grant Storage Permissions for Android 7.0 & Higher if Prompted to do So.
